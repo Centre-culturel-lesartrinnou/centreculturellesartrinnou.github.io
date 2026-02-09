@@ -69,4 +69,4 @@ footer {
 </footer>
 
 </body>
-</html># centreculturellesartrinnou.github.io
+</html>
